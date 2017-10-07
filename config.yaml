@@ -1,0 +1,6 @@
+network:
+  door_control_topic: 'control/trigger'
+  status_topic: 'sensor/garage'
+  base_ip: '192.168.1.100'
+  port: '1883'
+  timeout: '60'
